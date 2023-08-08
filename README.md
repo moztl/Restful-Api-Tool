@@ -6,10 +6,10 @@
 
 <p align="center">
     <a target="_blank" href="https://plugins.jetbrains.com/plugin/22446-restful-api-tool" style="text-decoration:none;">
-		<img src="https://img.shields.io/badge/IDEA-2022.* or higher-orange.svg" />
+		<img src="https://img.shields.io/badge/IDEA-2021.* or higher-orange.svg" />
 	</a>
     <a target="_blank" href="https://www.oracle.com/java/technologies/downloads/#java17" style="text-decoration:none;">
-		<img src="https://img.shields.io/badge/JDK-17-blue.svg" />
+		<img src="https://img.shields.io/badge/JDK-11/17-blue.svg" />
 	</a>
 </p>
 

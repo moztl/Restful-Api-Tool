@@ -1,6 +1,6 @@
 <p align="center">
     <a target="_blank" href="" style="text-decoration:none;">
-		<img src="./src/main/resources/META-INF/pluginIcon.svg" >
+		<img src="./icon/pluginIcon.svg" >
 	</a>
 </p>
 

@@ -19,14 +19,14 @@
 ## [Plugin homepage](https://plugins.jetbrains.com/plugin/22446-restful-api-tool)
 
 <!-- Plugin description -->
-**Restful Api Tool** is a universal interface testing tool, which is relatively simple compared to other interface testing tools.
+**Restful Api Tool** is a universal interface testing tool, Similar to Postman. which is relatively simple compared to other interface testing tools.
 
 #### Here is the main functions:
 * Send Request, Debugging API
 * APIs Navigation Tree
 * Search APIs anytime, anywhere
 
-**Restful Api Tool** 是一种通用的接口测试工具，相对于其他的接口测试工具，它是比较简单的一个接口测试工具。
+**Restful Api Tool** 是一种通用的接口测试工具，类似于Postman。相对于其他的接口测试工具，它是比较简单的一个接口测试工具。
 
 #### 主要功能如下：
 * 发送请求，调试API

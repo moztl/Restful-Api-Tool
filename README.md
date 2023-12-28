@@ -34,3 +34,6 @@
 * 随时随地搜索API
 
 <!-- Plugin description end -->
+
+## Join Group | 加入我们
+<a><img src="https://github.com/moztl/Restful-Api-Tool/blob/main/icon/Telegram.jpg" /></a>

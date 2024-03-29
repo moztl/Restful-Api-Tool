@@ -44,5 +44,12 @@
 
 <!-- Plugin description end -->
 
+## Documentation | 文档
+English Document
+* [https://moztl.github.io/Restful-Api-Tool/](https://moztl.github.io/Restful-Api-Tool/)
+
+中文文档:
+* [https://moztl.github.io/Restful-Api-Tool/zh/](https://moztl.github.io/Restful-Api-Tool/zh/)
+
 ## Join Group | 加入我们
 <a><img src="https://github.com/moztl/Restful-Api-Tool/blob/main/icon/Telegram.jpg" /></a>

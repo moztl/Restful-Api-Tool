@@ -49,7 +49,7 @@ English Document
 * [https://restful-api-tool.ltfa.top](https://restful-api-tool.ltfa.top)
 
 中文文档:
-* [https://restful-api-tool.ltfa.top/zh/](https://restful-api-tool.ltfa.top/zh/)
+* [https://restful-api-tool.ltfa.top](https://restful-api-tool.ltfa.top/zh/)
 
 ## Join Group | 加入我们
 <a><img src="https://github.com/moztl/Restful-Api-Tool/blob/main/icon/Telegram.jpg" /></a>

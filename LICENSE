@@ -1,4 +1,4 @@
-"Developer" means tianlei
+"Developer(s)" means tianlei
 
 "JetBrains" means JetBrains s.r.o. with its registered office at Na Hřebenech II 1718/10, Prague, 14000, Czech Republic, registered with the Commercial Register kept by the Municipal Court of Prague, Section C, file 86211, ID.Nr.: 265 02 275.
 
@@ -22,12 +22,18 @@ If Plugin is a paid Plugin, you must ensure that the maximum number of Plugin Us
 
 You are authorized to use Plugin in accordance with its documentation provided by Developer and for the period of time specified by Developer.
 
-You may not modify, reverse-engineer, decompile, or disassemble Plugin in whole or in part, or create any derivative works from Plugin, or sublicense any rights in Plugin, unless otherwise expressly authorized in writing by Developer.
+Unless otherwise expressly authorized in writing by the developer, you shall not edit, modify, adapt, translate, reverse engineer, decompile, or disassemble all or part of the content of the plugin, nor create any derivative works from the plugin, nor sublicense any rights in the plugin, nor copy, copy, distribute, resell or otherwise use the software for any commercial purpose, nor allow any third party to use the software on behalf of any third party or for the benefit of any third party, nor use the software in any way that violates any applicable local, national or international laws, nor use the software for any purpose that tianlei deems to be in violation of this EULA agreement.
 
 Plugin is protected by copyright and other intellectual property laws and treaties. Developer or its licensors own all title, copyright and other intellectual property rights in Plugin.
+
+tianlei reserves the right to grant licences to use the Software to third parties.
 
 ALL PLUGINS ARE PROVIDED TO YOU ON AN "AS IS" AND "AS AVAILABLE" BASIS WITHOUT WARRANTIES. USE OF PLUGINS IS AT YOUR OWN RISK. DEVELOPER MAKES NO WARRANTY AS TO PLUGIN'S USE OR PERFORMANCE. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, DEVELOPER DISCLAIMS ALL OTHER WARRANTIES AND CONDITIONS, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT, WITH REGARD TO PLUGINS, AND THE PROVISION OF OR FAILURE TO PROVIDE SUPPORT SERVICES. DEVELOPER DOES NOT WARRANT THAT PLUGINS ARE ACCURATE, RELIABLE, OR CORRECT; THAT PLUGIN MEETS YOUR REQUIREMENTS; THAT PLUGINS WILL BE AVAILABLE AT ANY PARTICULAR TIME OR LOCATION, UNINTERRUPTED, OR SECURE; THAT ANY DEFECTS OR ERRORS WILL BE CORRECTED; OR THAT PLUGINS ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.
 
 IN NO EVENT WILL DEVELOPER BE LIABLE FOR ANY DIRECT OR INDIRECT COSTS, LOSSES, OR DAMAGES ASSOCIATED WITH THE USE OF DEVELOPER'S PLUGINS.
 
 DEVELOPER SHALL NOT BE LIABLE TO YOU FOR ANY LOST PROFITS OR CONSEQUENTIAL DAMAGES, HOWEVER CAUSED, AND IN NO EVENT WILL DEVELOPER'S AGGREGATE LIABILITY ARISING OUT OF OR RELATED TO THIS AGREEMENT OR THE USE OF PLUGIN EXCEED THE FEES WHICH YOU PAID VIA JETBRAINS PLUGIN MARKETPLACE SERVICE FOR PLUGINS IN THE THREE-MONTH PERIOD PRECEDING THE CLAIM. THIS LIMITATION WILL APPLY EVEN IF DEVELOPER HAS BEEN ADVISED OF THE POSSIBILITY OF THE LIABILITY EXCEEDING THE AMOUNT AND NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY. JETBRAINS' LIABILITY IS EXCLUDED IN ITS ENTIRETY AS JETBRAINS IS NOT A PARTY TO THE CONTRACTUAL RELATIONSHIP BETWEEN DEVELOPER AND CUSTOMER.
+
+THIS EULA AGREEMENT, AND ANY DISPUTE ARISING OUT OF OR IN CONNECTION WITH THIS EULA AGREEMENT, SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS.
+
+Update: 2024-04-08
